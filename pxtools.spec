@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/Databases/Interfaces
 Source0:	http://jan.kneschke.de/projects/pxtools/download/%{name}-%{version}.tar.gz
+# Source0-md5:	c68ee33366446bdcd7ab1852b15f98e5
 URL:		http://jan.kneschke.de/projects/pxtools/
 BuildRequires:	autoconf
 BuildRequires:	automake
