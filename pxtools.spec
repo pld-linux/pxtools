@@ -1,5 +1,5 @@
 Summary:	Utility for Paradox databases
-Summary(pl):	Narzêdzie do baz danych Paradox
+Summary(pl.UTF-8):   NarzÄ™dzie do baz danych Paradox
 Name:		pxtools
 Version:	0.0.20
 Release:	1
@@ -19,11 +19,11 @@ consists of pxinfo and dump-utilities to generate SQL, CSV, and XML
 from the database. The pxtools are able to convert all versions of
 Paradox databases and even support the external MEMO-Blobs.
 
-%description -l pl
-pxtools to zestaw narzêdzi do pracy z bazami danych Paradox. Sk³ada
-siê z pxinfo oraz narzêdzi do zrzucania baz do generowania plików SQL,
-CSV i XML z baz danych. pxtools potrafi± konwertowaæ wszystkie wersje
-baz danych Paradox, a nawet wspieraj± zewnêtrzne bloby MEMO.
+%description -l pl.UTF-8
+pxtools to zestaw narzÄ™dzi do pracy z bazami danych Paradox. SkÅ‚ada
+siÄ™ z pxinfo oraz narzÄ™dzi do zrzucania baz do generowania plikÃ³w SQL,
+CSV i XML z baz danych. pxtools potrafiÄ… konwertowaÄ‡ wszystkie wersje
+baz danych Paradox, a nawet wspierajÄ… zewnÄ™trzne bloby MEMO.
 
 %prep
 %setup -q
