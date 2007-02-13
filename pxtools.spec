@@ -1,5 +1,5 @@
 Summary:	Utility for Paradox databases
-Summary(pl.UTF-8):   Narzędzie do baz danych Paradox
+Summary(pl.UTF-8):	Narzędzie do baz danych Paradox
 Name:		pxtools
 Version:	0.0.20
 Release:	1
