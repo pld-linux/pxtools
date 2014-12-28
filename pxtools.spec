@@ -10,7 +10,7 @@ Source0:	http://jan.kneschke.de/projects/pxtools/download/%{name}-%{version}.tar
 URL:		http://jan.kneschke.de/projects/pxtools/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gettext-devel >= 0.11
+BuildRequires:	gettext-tools >= 0.11
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
